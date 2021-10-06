@@ -1,0 +1,22 @@
+#homeBackground{
+    background-image: url(./../Image/oops.jpg);
+    background-color: black;
+    background-repeat: no-repeat;
+    width: 100vw;
+    background-size:cover;
+    color: #f4f4f4;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+}
+#WelcomeScreen{
+    font-size: 20px;
+    padding-top: 30vh;
+    width: 500px;
+    text-align: center;
+    padding-bottom: 35vh;
+    
+}
+#aboutUs{
+
+}

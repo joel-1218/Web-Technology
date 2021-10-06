@@ -1,0 +1,9 @@
+#EventsCardShow{
+    width: 100%;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+}
+#card{
+    width: 500px;
+}
